@@ -1,5 +1,11 @@
 # Nick Meyer's PGConf NYC 2024 talks
 
+## Academia.edu is hiring
+
+See https://www.academia.edu/hiring?pgconfnyc=nickmeyer for more details.
+
+Or if you prefer no URL param: https://www.academia.edu/hiring
+
 ## Testing your PostgreSQL backups (a practical guide)
 
 Tuesday, 2024-10-01 11:40 UTC -4:00
