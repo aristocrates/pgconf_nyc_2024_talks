@@ -6,6 +6,26 @@ See https://www.academia.edu/hiring?pgconfnyc=nickmeyer for more details.
 
 Or if you prefer no URL param: https://www.academia.edu/hiring
 
+## 9.2 to 15 and beyond: a case study of a tricky upgrade path
+
+Wednesday, 2024-10-02 11:40 UTC -4:00
+
+https://postgresql.us/events/pgconfnyc2024/schedule/session/1819-92-to-15-and-beyond-a-case-study-of-a-tricky-upgrade-path/
+
+Some signs that you may want to think about upgrading postgres:
+* You have to click on the “Unsupported versions” row to double check everything you read in the docs
+* You hear about a feature that has been around since postgres 11 (or 9.3) and wish that you were able to use it
+* Whenever you mention the version you are running, people mention how out of date it is
+
+While there is a lot of advice emphasizing the benefits of upgrading, sometimes it can feel like there are fewer details on how to deal with trickier situations you may be in. I hope to partially fill this niche with our story of how we at Academia.edu went from 9.2 to 15.
+
+In this talk we will cover:
+* Running `pg_upgrade` when you have streaming replicas and want to minimize downtime
+* Using pglogical with DDL replication and the challenges that come with it 
+* Various complications that occurred along this journey
+* Greatest technical frustrations I have experienced while upgrading
+* My personal list of favorite new features from 9.3 to 15
+
 ## Testing your PostgreSQL backups (a practical guide)
 
 Tuesday, 2024-10-01 11:40 UTC -4:00
