@@ -1,14 +1,8 @@
 # Nick Meyer's PGConf NYC 2024 talks
 
-## Academia.edu is hiring
-
-See https://www.academia.edu/hiring?pgconfnyc=nickmeyer for more details.
-
-Or if you prefer no URL param: https://www.academia.edu/hiring
-
 ## 9.2 to 15 and beyond: a case study of a tricky upgrade path
 
-Wednesday, 2024-10-02 11:40 UTC -4:00
+Wednesday, 2024-10-02 11:40 UTC-04:00
 
 https://postgresql.us/events/pgconfnyc2024/schedule/session/1819-92-to-15-and-beyond-a-case-study-of-a-tricky-upgrade-path/
 
@@ -28,7 +22,7 @@ In this talk we will cover:
 
 ## Testing your PostgreSQL backups (a practical guide)
 
-Tuesday, 2024-10-01 11:40 UTC -4:00
+Tuesday, 2024-10-01 11:40 UTC-04:00
 
 https://postgresql.us/events/pgconfnyc2024/schedule/session/1735-testing-your-postgresql-backups-a-practical-guide/
 
